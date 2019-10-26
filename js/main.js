@@ -38,8 +38,6 @@ function renderNews(articles) {
             ' </div>' +
             ' <div class="share">' +
             '   <img class="storyimage" src="' + article.urlToImage + '" />' +
-            '   <a href="https://twitter.com/TOBItheFIRST" target="_blank"><button type="button" class="tweet" id="tweet ' + index + '">' +
-            '   <i class="fa fa-twitter" aria-hidden="true"></i>Tweet</button></a>' +
             ' </div>' +
             '</div>';
 
